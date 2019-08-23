@@ -32,7 +32,7 @@ OpenSphere is natively developed on Linux and should run great on OS X and typic
 * Clone [opensphere-yarn-workspace](https://github.com/ngageoint/opensphere-yarn-workspace)
 * Clone OpenSphere to the `workspace` directory
 * `yarn install`
-* `npm run build`
+* `yarn run build`
 * Point your browser at `dist/opensphere`
 
 ### NPM
